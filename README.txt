@@ -7,4 +7,4 @@ To Install and run the application:
 3) Install git
 4) Clone the repository with " git clone 'repo_url'
 5) Run in console "docker build . -t fusion:1.0"
-6) Run in console "docker run fusion:1"
+6) Run in console "docker run fusion:1.0"
